@@ -1,0 +1,6 @@
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\opdracht 2 goed\opdracht 2 goed\bin\Debug\opdracht 2 goed.exe.config
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\opdracht 2 goed\opdracht 2 goed\bin\Debug\opdracht 2 goed.exe
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\opdracht 2 goed\opdracht 2 goed\bin\Debug\opdracht 2 goed.pdb
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\opdracht 2 goed\opdracht 2 goed\obj\Debug\opdracht 2 goed.csprojAssemblyReference.cache
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\opdracht 2 goed\opdracht 2 goed\obj\Debug\opdracht 2 goed.exe
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\opdracht 2 goed\opdracht 2 goed\obj\Debug\opdracht 2 goed.pdb

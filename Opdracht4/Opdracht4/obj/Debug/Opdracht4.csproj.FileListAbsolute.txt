@@ -1,0 +1,5 @@
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Opdracht4\Opdracht4\bin\Debug\Opdracht4.exe.config
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Opdracht4\Opdracht4\bin\Debug\Opdracht4.exe
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Opdracht4\Opdracht4\bin\Debug\Opdracht4.pdb
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Opdracht4\Opdracht4\obj\Debug\Opdracht4.exe
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Opdracht4\Opdracht4\obj\Debug\Opdracht4.pdb

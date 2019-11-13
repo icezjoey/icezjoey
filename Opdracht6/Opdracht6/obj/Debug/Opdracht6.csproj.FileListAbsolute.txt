@@ -1,0 +1,6 @@
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Opdracht6\Opdracht6\bin\Debug\Opdracht6.exe.config
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Opdracht6\Opdracht6\bin\Debug\Opdracht6.exe
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Opdracht6\Opdracht6\bin\Debug\Opdracht6.pdb
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Opdracht6\Opdracht6\obj\Debug\Opdracht6.csprojAssemblyReference.cache
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Opdracht6\Opdracht6\obj\Debug\Opdracht6.exe
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Opdracht6\Opdracht6\obj\Debug\Opdracht6.pdb
