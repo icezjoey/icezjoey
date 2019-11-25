@@ -1,0 +1,9 @@
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Calculator\Calculator\obj\Debug\Calculator.frame.resources
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\damie\OneDrive - ROC van Twente\school\code\Csharp\Calculator\Calculator\obj\Debug\Calculator.pdb
