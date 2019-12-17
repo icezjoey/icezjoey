@@ -51,9 +51,6 @@ namespace Calculator
         {
             textBox1.Text = "0";
             resultvalue = 0;
-
-
-
         }
 
         private void buttonenter_click(object sender, EventArgs e)
@@ -80,6 +77,8 @@ namespace Calculator
                     break;
             }
         }
+
+        //naar dollar conversie
         private void dollar_click(object sender, EventArgs e)
         {
             Button button = (Button)sender;
@@ -90,6 +89,7 @@ namespace Calculator
 
         }
 
+        //naar Euro conversie
         private void euro_click(object sender, EventArgs e)
         {
             Button button = (Button)sender;
@@ -99,22 +99,26 @@ namespace Calculator
             remember = true;
         }
 
-        private void button12_Click(object sender, EventArgs e)
+        //Modular conversie
+        private void Modular_Click(object sender, EventArgs e)
         {
-            int oke = int.Parse(textBox1.Text);
-            textBox1.Text = Convert.ToString(oke, 8);
+            int mod = int.Parse(textBox1.Text);
+            textBox1.Text = Convert.ToString(mod, 8);
         }
 
-        private void button13_Click(object sender, EventArgs e)
+        //hexadicmal conversie
+        private void Hexa_Click(object sender, EventArgs e)
         {
-            int oke = int.Parse(textBox1.Text);
-            textBox1.Text = Convert.ToString(oke, 16);
+            int hex = int.Parse(textBox1.Text);
+            textBox1.Text = Convert.ToString(hex, 16);
         }
 
-        private void button14_Click(object sender, EventArgs e)
+
+        //binary conversie
+        private void Binary_Click(object sender, EventArgs e)
         {
-            int oke = int.Parse(textBox1.Text);
-            textBox1.Text = Convert.ToString(oke, 2);
+            int bin = int.Parse(textBox1.Text);
+            textBox1.Text = Convert.ToString(bin, 2);
         }
     }
 }

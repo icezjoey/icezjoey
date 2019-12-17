@@ -122,6 +122,7 @@
             // 
             // button7
             // 
+            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.button7.Location = new System.Drawing.Point(16, 119);
             this.button7.Margin = new System.Windows.Forms.Padding(4);
             this.button7.Name = "button7";
@@ -295,7 +296,7 @@
             this.button12.TabIndex = 22;
             this.button12.Text = "MOD";
             this.button12.UseVisualStyleBackColor = true;
-            this.button12.Click += new System.EventHandler(this.button12_Click);
+            this.button12.Click += new System.EventHandler(this.Modular_Click);
             // 
             // button13
             // 
@@ -306,7 +307,7 @@
             this.button13.TabIndex = 23;
             this.button13.Text = "HEX";
             this.button13.UseVisualStyleBackColor = true;
-            this.button13.Click += new System.EventHandler(this.button13_Click);
+            this.button13.Click += new System.EventHandler(this.Hexa_Click);
             // 
             // button14
             // 
@@ -317,7 +318,7 @@
             this.button14.TabIndex = 25;
             this.button14.Text = "BIN";
             this.button14.UseVisualStyleBackColor = true;
-            this.button14.Click += new System.EventHandler(this.button14_Click);
+            this.button14.Click += new System.EventHandler(this.Binary_Click);
             // 
             // frame
             // 
@@ -348,10 +349,10 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frame";
-            this.Text = "Calculator";
+            this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.Text = "Rekenmachine";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

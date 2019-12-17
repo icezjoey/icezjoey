@@ -16,3 +16,12 @@ C:\Users\ruite\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
 C:\Users\ruite\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
 C:\Users\ruite\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
 C:\Users\ruite\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ruite\source\repos\Calculator1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ruite\source\repos\Calculator1\Calculator\bin\Debug\Calculator.exe
+C:\Users\ruite\source\repos\Calculator1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ruite\source\repos\Calculator1\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\ruite\source\repos\Calculator1\Calculator\obj\Debug\Calculator.frame.resources
+C:\Users\ruite\source\repos\Calculator1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ruite\source\repos\Calculator1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ruite\source\repos\Calculator1\Calculator\obj\Debug\Calculator.exe
+C:\Users\ruite\source\repos\Calculator1\Calculator\obj\Debug\Calculator.pdb
