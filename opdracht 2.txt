@@ -1,0 +1,10 @@
+leeftijduno = int(input("Wat is de leeftijd van persoon A? tell me: "));
+leeftijddos = int(input("Wat is de leeftijd van persoon B? tell me: "));
+
+if leeftijduno > leeftijddos:
+    print("Persoon Ali is " + str(leeftijduno) + " jaar en ouder dan persoon B die zal zijn " + str(leeftijddos) + " jaar")
+else:
+    if leeftijduno < leeftijddos:
+        print("Persoon Ali is " + str(leeftijduno) + " jaar en jonger dan persoon B zal zijn " + str(leeftijddos) + " jaar")
+    else:
+        print("Persoon Ali en persoon B zijn beide " + str(leeftijduno))
